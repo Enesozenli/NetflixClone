@@ -1,6 +1,6 @@
 <h1> Netflix Clone </h1>
 
-Film ve Dizilere ulaşabileceğiniz bir sitenini ön yüz tasarımı yapılmıştır.
+Film ve Dizilere ulaşabileceğiniz bir sitenin ön yüz tasarımı yapılmıştır.
 
 <h2> Kullanılan Teknolojiler </h2>
 
